@@ -1,0 +1,45 @@
+.App{
+  height: 100px;
+  display: flex;
+  flex-direction: column;
+ margin: 0;
+ 
+ 
+}
+
+.result{
+text-align: center;
+font-size: x-large;
+justify-content: center;
+color: #1b2021;
+}
+
+.navbar{
+  padding: 20px;
+  display: flex;
+  background-color: #1b2021;
+  font-weight: 500;
+
+}
+
+.navbar > h2 {
+  color:azure;
+}
+
+.search > h2 {
+  flex: 0.2;
+}
+
+.search{
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  padding: 20px 0;
+  /* background-color:#968c83;  */
+  
+} 
+
+.spn{
+  font-weight: bolder;
+  color: #495464;
+}
